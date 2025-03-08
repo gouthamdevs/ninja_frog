@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://du1mgf3u634mb"
-path="res://.godot/imported/Run (32x32).png-448439aeb8095dde0c51c1fbc2bea5a9.ctex"
+uid="uid://dkhgyb6hyyloh"
+path="res://.godot/imported/Hit (32x32).png-6240100bbb375336ebe5ae13ea827212.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Run (32x32).png"
-dest_files=["res://.godot/imported/Run (32x32).png-448439aeb8095dde0c51c1fbc2bea5a9.ctex"]
+source_file="res://assets/charachters/Hit (32x32).png"
+dest_files=["res://.godot/imported/Hit (32x32).png-6240100bbb375336ebe5ae13ea827212.ctex"]
 
 [params]
 

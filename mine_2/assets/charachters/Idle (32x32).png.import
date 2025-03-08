@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://7j5gr0o5tt1"
-path="res://.godot/imported/Green Portal Sprite Sheet2.png-960b74bbcb197304bf956706b5cc88c3.ctex"
+uid="uid://cxvka6uh2c1hf"
+path="res://.godot/imported/Idle (32x32).png-f6d273a7aa714f75e9831d30584cf184.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Green Portal Sprite Sheet2.png"
-dest_files=["res://.godot/imported/Green Portal Sprite Sheet2.png-960b74bbcb197304bf956706b5cc88c3.ctex"]
+source_file="res://assets/charachters/Idle (32x32).png"
+dest_files=["res://.godot/imported/Idle (32x32).png-f6d273a7aa714f75e9831d30584cf184.ctex"]
 
 [params]
 
